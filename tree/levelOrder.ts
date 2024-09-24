@@ -1,4 +1,4 @@
-import type{ TreeNode } from './treeNode.ts'
+import type { TreeNode } from './treeNode.ts'
 
 // 层序遍历，一个打十个
 export function levelOrder(root: TreeNode | null): number[][] {
